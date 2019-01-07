@@ -12,7 +12,7 @@
     s.parentNode.insertBefore(bp, s);
 })();
 
-//统计代码
+// 统计代码
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
