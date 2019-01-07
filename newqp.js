@@ -20,3 +20,6 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
+
+// js 跳转
+console.log('test1111');
